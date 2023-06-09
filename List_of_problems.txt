@@ -1,0 +1,152 @@
+----------------------List of 600 problems we will going to solve in up coming 30 days coding challenge--------------------------------
+
+Reverse a String
+Palindrome Check
+FizzBuzz
+Fibonacci Series
+Array Rotation
+Find Maximum and Minimum
+Prime Number Check
+Array Intersection
+Array Sum
+Find Missing Number
+Remove Duplicates from Array
+Check Anagrams
+Sorting Algorithms (Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, etc.)
+Reverse Linked List
+Binary Search
+Matrix Transpose
+Count Words in a String
+Validate Parentheses
+Implement a Stack
+Implement a Queue
+Implement a Binary Search Tree (BST)
+Implement a Binary Heap
+Implement a Graph (DFS, BFS, Shortest Path Algorithms)
+Implement Depth-First Search (DFS)
+Implement Breadth-First Search (BFS)
+Implement Dijkstra's Algorithm
+Implement the Knapsack Problem
+Implement a Trie (Prefix Tree)
+Implement an LRU Cache
+Find Common Elements in Multiple Arrays
+Check if a Number is Power of Two
+Check if a Number is a Perfect Square
+Check if a Number is a Happy Number
+Find the Largest Continuous Sum in an Array
+Find the Longest Palindromic Substring
+Find the Median of Two Sorted Arrays
+Rotate a Matrix
+Find the Intersection Point of Two Linked Lists
+Implement a Queue using Stacks
+Merge Two Sorted Lists
+Count the Number of Islands in a Matrix
+Reverse Words in a String
+Find the Longest Common Prefix
+Find the Nth Fibonacci Number (Iterative and Recursive)
+Count the Number of Palindromic Substrings
+Implement a Binary Search in a Rotated Sorted Array
+Find the Maximum Subarray Sum
+Reverse a Linked List in Groups of K
+Implement a Sudoku Solver
+Find the Intersection of Two Linked Lists
+Find the Majority Element in an Array
+Implement a Circular Linked List
+Find the First Non-Repeated Character in a String
+Implement a Min-Heap
+Implement a Max-Heap
+Implement a Red-Black Tree
+Find the Longest Increasing Subsequence
+Check if a Linked List is a Palindrome
+Find the Maximum Depth of a Binary Tree
+Find the Lowest Common Ancestor of Two Nodes in a Binary Tree
+Implement a Deque (Double-Ended Queue)
+Find the Kth Largest Element in an Array
+Find the Maximum Product Subarray
+Implement Depth-First Search (DFS) on a Graph
+Implement Breadth-First Search (BFS) on a Graph
+Implement Topological Sorting of a Directed Acyclic Graph (DAG)
+Implement Heap Sort
+Check if a Binary Tree is a Binary Search Tree (BST)
+Implement a Hash Table (HashMap)
+Find the Shortest Path in a Graph using Bellman-Ford Algorithm
+Find the Shortest Path in a Graph using Floyd-Warshall Algorithm
+Implement Quick Sort
+Implement Selection Sort
+Implement Radix Sort
+Find the Longest Common Subsequence
+Find All Permutations of a String
+Implement a Priority Queue
+Implement an AVL Tree
+Find the Maximum Depth of a Binary Search Tree (BST)
+Implement a Skip List
+Implement a Trie (Prefix Tree) with Auto-Completion
+Find the Intersection of Two Arrays
+Find the Peak Element in an Array
+Reverse a Linked List in a Group of Size K
+Find the Number of Islands in a Matrix using Union-Find Algorithm
+Find the Longest Substring Without Repeating Characters
+Implement a Binary Search Tree Iterator
+Implement a Graph using Adjacency List
+Implement a Graph using Adjacency Matrix
+Implement a Union-Find Data Structure
+Implement Heapify Operation in a Binary Heap
+Implement Ternary Search
+Find the Longest Consecutive Sequence in an Unsorted Array
+Serialize and Deserialize a Binary Tree
+Implement a Doubly Linked List
+Find the Diameter of a Binary Tree
+Implement a Skip List with Randomized Levels
+Implement a Bloom Filter
+Find the Nth Node from the End of a Linked List
+Implement a Least Recently Used (LRU) Cache using LinkedHashMap
+Implement a Circular Queue
+Find the Intersection of Three Sorted Arrays
+Find the Number of Connected Components in an Undirected Graph
+Convert a Binary Tree to Doubly Linked List
+Find the Maximum Sum Path in a Binary Tree
+Implement a Doubly Ended Priority Queue
+Find the Kth Smallest Element in a Binary Search Tree
+Implement a K-way Merge Algorithm
+Find the Maximum Profit from Stock Prices
+Implement an Iterator for a Binary Search Tree
+Find the Longest Zigzag Path in a Binary Tree
+Implement a Fixed-Size Circular Queue
+Find the Diameter of a Circular Linked List
+Implement a Multiset (Bag) Data Structure
+Check if a Directed Graph is Acyclic (DAG)
+Find the Smallest Missing Positive Integer in an Unsorted Array
+Serialize and Deserialize a Binary Search Tree
+Find the Lowest Common Ancestor of Two Nodes in a Binary Search Tree
+Implement an Inverted Index for a Document Search Engine
+Find the Longest Increasing Path in a Matrix
+Implement a Circular Buffer
+Implement a K-way Merge Sort Algorithm
+Find the Number of Islands in a Binary Matrix
+Implement a Hash Set using Linked Lists
+Find the Smallest Common Number in Three Sorted Arrays
+Implement a Rolling Hash Function
+Find the Minimum Depth of a Binary Tree
+Implement a Least Recently Used (LRU) Cache using Doubly Linked List and Hash Map
+Find the Maximum Depth of a N-ary Tree
+Implement a Graph Coloring Algorithm
+Find the Kth Smallest Element in a Min-Heap
+Implement an Expression Evaluator
+Find the Median of a Stream of Integers
+Implement a Time-based Key-Value Store
+Find the Longest Consecutive Path in a Matrix
+Implement a Randomized Set
+Find the Maximum Sum of a Path in a Matrix
+Implement a Bounded Blocking Queue
+Find the Longest Palindrome Subsequence
+Implement a Trie with Wildcard Search
+Find the Smallest Missing Positive Integer in a Sorted Array
+Implement a Double-Ended Queue with Maximum API
+Find the Maximum Number of Overlapping Intervals
+Implement an Iterator for a Matrix
+Find the Maximum Subarray Product
+Implement a Stack using Queues
+Find the Minimum Window Substring
+Implement a Graph Cycle Detection Algorithm
+Find the Minimum Number of Arrows to Burst Balloons
+Implement a Binary Search Tree with Successor and Predecessor
